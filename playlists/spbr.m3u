@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-name="TV Cultura" group-title="São Paulo",TV Cultura
 http://192.99.148.73:8080/live/play/play/1.ts
+
+#EXTINF:0 group-title="Religioso" tvg-id="" tvg-name="TV Ouro Negro" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
