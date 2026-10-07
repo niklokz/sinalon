@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="São Paulo",TV Cultura
+http://192.99.148.73:8080/live/play/play/1.ts
