@@ -5,12 +5,73 @@ http://186.219.52.187/cultura/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (576p)
-https://media.cdntvms.com.br/sbt_sat/index.m3u8
 
-
-#EXTINF:-1 tvg-id="globo.br@SD",Globo (576p)
+#EXTINF:-1 tvg-id="globo.br@SD",Globo PE
 https://media.cdntvms.com.br/band_sat/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (720p)
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD",TV Globo Sao Paulo (720p)
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (1080p)
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27jnlygh" group-title="BRFLU TV",Globo SP
+https://brflu.walk-tv.com/5755/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SHASHE TV",GLOBO
+http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/66759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SHASHE TV",GLOBO SP
+http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/66771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CDNEXPRESS TV",Globo
+http://cdnexpress.homelinux.net/live/ca5c20ae5bcb1c5f65998accf9920342/bbe9ecca23158eecca1095e547d85845/129.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27jnlygh" group-title="GLOBO",Globo SP (1)
+http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27jnlygh" group-title="GLOBO",Globo SP (2)
+http://15.235.15.230:14488
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27jnlygh" group-title="GLOBO",Globo SP (3)
+http://15.235.15.230:14490
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27jnlygh" group-title="GLOBO",Globo SP (4)
+https://brflu.walk-tv.com/5755/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="redeglobo.br" tvg-name="GLOBO FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO FHD¹
+http://vvraw.com:2082/Altair567/356738473/6741
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="redeglobo.br" tvg-name="GLOBO HD SP¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO HD SP¹
+http://vvraw.com:2082/Altair567/356738473/7043
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png" ,GLOBO SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP FHD
+http://dnsx.co:80//9021560985/fireurl.co/72040
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="aande.br" tvg-name="GLOBO SP FHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO SP FHD²
+http://vvraw.com:2082/Altair567/356738473/4468
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/" ,GLOBO SP HD
+http://185.71.64.167:80/307245103371/307245103371/82457
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP HD
+http://dnsx.co:80//9021560985/fireurl.co/72041
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="aande.br" tvg-name="GLOBO SP HD DUAL²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO SP HD DUAL²
+http://vvraw.com:2082/Altair567/356738473/4513
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="aande.br" tvg-name="GLOBO SP HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO SP HD²
+http://vvraw.com:2082/Altair567/356738473/4514
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP SD
+http://dnsx.co:80//9021560985/fireurl.co/72042
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="aande.br" tvg-name="GLOBO SP SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO SP SD²
+http://vvraw.com:2082/Altair567/356738473/4515
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="redeglobo.br" tvg-name="GLOBO SP SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO SP SD¹
+http://vvraw.com:2082/Altair567/356738473/7044
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="GloboAnhangueraGoias.br" tvg-logo="http://a5.vc/3pv" ,Globo TV Anhanguera FHD
+http://dnsx.co:80//9021560985/fireurl.co/72043
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP FHD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90478
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP HD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90479
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Globosp.br" tvg-logo="http://a5.vc/3pv" ,Globo SP SD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90480
+#EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" ,TV Globo
+http://dnsx.co:80//9021560985/fireurl.co/74995
+#EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" ,TV Globo FHD
+http://dnsx.co:80//9021560985/fireurl.co/74996
+#EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" ,TV Globo NOW
+http://dnsx.co:80//9021560985/fireurl.co/74997
+#EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" ,Globo TV
+https://panel.dattalive.com/8122/8122/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Record.br@SD",RecordTV
@@ -621,7 +682,8 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 http://168.197.104.22/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-
+#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (576p)
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
 
 ## Invalidos ##
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  
