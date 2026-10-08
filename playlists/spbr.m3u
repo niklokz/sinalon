@@ -72,6 +72,27 @@ http://dnsx.co:80//9021560985/fireurl.co/74996
 http://dnsx.co:80//9021560985/fireurl.co/74997
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" ,Globo TV
 https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1,GLOBO SP
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/875.ts
+#EXTINF:-1,GLOBO SP HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7539.ts
+#EXTINF:-1 group-title="Lista 1",BR: Globo SP
+http://leaderpro.com.br:25461/live/TestFull/Test/5299.ts
+#EXTINF:-1 group-title="Lista 1",BR: Globo SP HD
+http://leaderpro.com.br:25461/live/TestFull/Test/5319.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP HD
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/875.ts
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP 
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://imgur.com/waJG1M.png"group-title="CanaisABERTO", Globo SP HD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF: -1 tvq-id="Globo Sp" tvg-name="Globo Sp" tvg-logo="https://imgur.com/waJG1M.png" group-title="Canais | ABERTO",Globo SP HD
+http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF: -1 tvq-id="Globo" tvq-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO" TV TEM SP.HD
+htto://cdn-1.nxolav.com.br/TV TEM TK/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Record.br@SD",RecordTV
