@@ -1,13 +1,7 @@
 #EXTM3U
 ## Validados ##
 #EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
-http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
-http://168.197.104.22/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
 http://186.219.52.187/cultura/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
@@ -18,14 +12,15 @@ https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="globo.br@SD",Globo (576p)
 https://media.cdntvms.com.br/band_sat/index.m3u8
 
-#EXTINF:-1 tvg-id="Record.br@SD",Record (576p)
-https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
-http://45.162.64.114/RECORD_NEWS/index.m3u8
+
 #EXTINF:-1 tvg-id="Record.br@SD",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",RecordTV Interior SP
-http://200.77.176.130:8000/udp/224.0.0.4:49152
+
+#EXTINF:-1 tvg-id="Record.br@SD",Record (576p)
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br@SD",Rede TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
@@ -619,6 +614,13 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 
 
+## Backup ##
+#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+http://168.197.104.22/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
 
 
 ## Invalidos ##
@@ -690,3 +692,5 @@ http://vvraw.com:2082/Altair567/356738473/6832
 http://dnsx.co:80//9021560985/fireurl.co/77964
 #EXTINF:-1 group-title="Canais | Abertos" tvg-id="sbt.br" tvg-name="SBT SP SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" ,SBT SP SD¹
 http://vvraw.com:2082/Altair567/356738473/6833
+#EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
