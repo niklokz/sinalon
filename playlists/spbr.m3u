@@ -6,7 +6,11 @@ http://186.219.52.187/cultura/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT
+#EXTINF:-1, SBT1
+plugin://plugin.video.youtube/play/?video_id=R0ZJ4uevOd4
+
+#EXTINF:-1, SBT2
+plugin://plugin.video.youtube/play/?video_id=R0ZJ4uevOd4
 https://www.youtube.com/embed/R0ZJ4uevOd4
 
 #EXTINF:-1 tvg-id="globo.br@SD",Globo PE
