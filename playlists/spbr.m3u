@@ -1,4 +1,5 @@
 #EXTM3U
+## Validados ##
 #EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
@@ -8,18 +9,9 @@ http://186.219.52.187/cultura/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  
-#http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT HD 
-#http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="globo.br@SD",Globo (576p)
 https://media.cdntvms.com.br/band_sat/index.m3u8
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP HD
-#http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Record" tvg-logo="https://i.imgur.com/g5JYTWp.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Record 
-#http://158.58.172.5:8081/look/recordy/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD",Record (576p)
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
@@ -31,25 +23,10 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 
 #EXTINF:-1 tvg-id="redetv.br@SD",Rede TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
-#http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Rede TV " tvg-logo="https://i.imgur.com/m8Fw6Kv.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Rede TV 
-#http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1201997130.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Band HD
-#http://158.58.172.5:8081/look/band/playlist.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
-#http://170.84.165.204/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="Band.br@SD",Band (576p)
-#https://media.cdntvms.com.br/band_sat/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://170.83.49.66:8083/AXNHD/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
@@ -634,3 +611,30 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="PolsatGames.pl@HD" tvg-logo="https://i.imgur.com/OSCrBvh.png" group-title="Undefined",Polsat Games HD (1080p)
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+
+
+
+
+## Invalidos ##
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  
+#http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT HD 
+#http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP HD
+#http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://i.imgur.com/g5JYTWp.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Record 
+#http://158.58.172.5:8081/look/recordy/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+#http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Rede TV " tvg-logo="https://i.imgur.com/m8Fw6Kv.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Rede TV 
+#http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1201997130.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Band HD
+#http://158.58.172.5:8081/look/band/playlist.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
+#http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD",Band (576p)
+#https://media.cdntvms.com.br/band_sat/index.m3u8
