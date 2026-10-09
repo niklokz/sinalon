@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
