@@ -7,7 +7,14 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
 
-XTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="Undefined",Rede Globo (1080p)
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv:80/logos/canais/globo.png"; group-title="GLOBO", GLOBO SP (NX)
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv:80/logos/canais/globo.png"; group-title="GLOBO", GLOBO SP (S2)
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv:80/logos/canais/globo.png"; group-title="GLOBO", GLOBO SP (SV)
+https://stream.cloudflaire.lat/streamverde/globosp.m3u8
+
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="Undefined",Rede Globo (1080p)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD",Rede Globo (1080p)
