@@ -8,20 +8,8 @@ https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="Undefined",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD PAULISTA (NX)
-https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD SP (CDN)
-https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD SP - RECORDPLUS (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1098.m3u8
-
 #EXTINF:-1 tvg-id="Record.br@SD",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Record.br@SD",Record (576p)
-https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
