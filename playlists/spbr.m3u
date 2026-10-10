@@ -4,30 +4,20 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",21
-https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",22
-https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",23
-https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream3/chunklist.m3u8%  
-
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",2
-https://liveabr2.sambatech.com.br/abr/ADP_51197df048844c3b0319a0806d865674/livestream.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",3
-https://liveabr2.sambatech.com.br/abr/ADP_51197df048844c3b0319a0806d865674/livestreambkp.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",4
-https://liveabr2.sambatech.com.br/abr/ADP_9ab3d8db695462e8e65b7b5f200576d6/livestream.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",5
-https://liveabr2.sambatech.com.br/abr/ADP_9ab3d8db695462e8e65b7b5f200576d6/livestreambkp.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",6
-https://liveabr2.sambatech.com.br/abr/AdvisePlayNoticias_ff36ece31a091a861b8fcebe83ace2d9/livestream.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",7
-https://liveabr2.sambatech.com.br/abr/AdvisePlayNoticias_ff36ece31a091a861b8fcebe83ace2d9/livestreambkp.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",8
-https://liveabr2.sambatech.com.br/abr/AniversarioCubo14082017Cubo_51197df048844c3b0319a0806d865674/livestream.m3u8
-
+#EXTINF:-1 group-title="Lista 1",BR: SBT
+http://leaderpro.com.br:25461/live/TestFull/Test/192.ts
+#EXTINF:-1 group-title="Lista 1",BR: SBT HD
+http://leaderpro.com.br:25461/live/TestFull/Test/105.ts
+#EXTINF:-1 group-title="Lista 2",SBT HD
+http://192.99.148.73:8080/live/play/play/594.ts
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/153-SBT.JPG" group-title="Lista 3",SBT
+http://www.unlimitedbroadcasts.net:25461/live/25895197/5039972365/793.ts
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/154-sbt_br_hd.png" group-title="Lista 3",SBT HD
+http://www.unlimitedbroadcasts.net:25461/live/25895197/5039972365/791.ts
+#EXTINF:-1 tvg-ID="SBT [Brazil]" tvg-name="SBT" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Lista 4",SBT
+http://iptvbrasil.dyndns.tv:8080/live/AlexandroFerreiraDaSilva/nHTVx98KKI/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBT HD" tvg-logo="" group-title="Lista 4",SBT HD
+http://iptvbrasil.dyndns.tv:8080/live/AlexandroFerreiraDaSilva/nHTVx98KKI/594.ts
 
 #EXTINF:-1 tvg-id="globo.br@SD",Globo PE
 https://media.cdntvms.com.br/band_sat/index.m3u8
