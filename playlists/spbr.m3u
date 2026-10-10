@@ -1,7 +1,7 @@
 #EXTM3U
 #1
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #2
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT SP" tvg-name="SBT São Paulo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
