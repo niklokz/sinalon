@@ -6,6 +6,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://live.leveex.hr/hls/live.m3u8
+#EXTINF:0 group-title="Geral" tvg-id="SBT.br(m3u4u)" tvg-name="SBT São Paulo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT São Paulo
+https://www.youtube.com/watch?v=ABVQXgr2LW4
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/29m3fypt" group-title="SBT",SBT Rede (1)
