@@ -4,7 +4,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="globo.br@SD",Globo PE
 https://media.cdntvms.com.br/band_sat/index.m3u8
@@ -707,6 +707,8 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
 
 ## Invalidos ##
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  
 #http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT HD 
@@ -777,3 +779,4 @@ http://dnsx.co:80//9021560985/fireurl.co/77964
 http://vvraw.com:2082/Altair567/356738473/6833
 #EXTINF:-1 tvg-id="TVCultura.br@SD",TV Cultura (720p)
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+
