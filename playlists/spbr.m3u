@@ -4,6 +4,52 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/29m3fypt" group-title="SBT",SBT Rede (1)
+https://cdn-3.nxplay.com.br/SBT_HD_SIMBA/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/29m3fypt" group-title="SBT",SBT Rede (2)
+https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SBT",TV Zyn (1)
+https://fast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/4f7ba576-f3c4-458e-8f5d-d927a7b77ce4/4.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SBT",TV Zyn (2)
+https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
+
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT Internacional
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SBT",VTV YT
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/" ,SBT HD
+http://185.71.64.167:80/307245103371/307245103371/82435
+
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" ,SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Sbt.br" tvg-logo="http://a5.vc/FVo" ,SBT SP FHD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90346
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Sbt.br" tvg-logo="http://a5.vc/FVo" ,SBT SP HD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90347
+#EXTINF:-1 group-title="Canais | Diversos" tvg-id="Sbt.br" tvg-logo="http://a5.vc/FVo" ,SBT SP SD [Alter]
+http://dnsx.co:80//9021560985/fireurl.co/90348
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="SmithsonianChannel" tvg-logo="http://a5.vc/SbT" ,Smithsonian FHD
+http://dnsx.co:80//9021560985/fireurl.co/72313
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="SmithsonianChannel" tvg-logo="http://a5.vc/SbT" ,Smithsonian FHD [H265]
+http://dnsx.co:80//9021560985/fireurl.co/72314
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="SmithsonianChannel" tvg-logo="http://a5.vc/SbT" ,Smithsonian HD
+http://dnsx.co:80//9021560985/fireurl.co/72315
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="SmithsonianChannel" tvg-logo="http://a5.vc/SbT" ,Smithsonian SD
+http://dnsx.co:80//9021560985/fireurl.co/72316
+
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/Wajw4nv.png",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://i.imgur.com/xvGiIqn.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
 #EXTINF:-1 group-title="Lista 1",BR: SBT
 http://leaderpro.com.br:25461/live/TestFull/Test/192.ts
 #EXTINF:-1 group-title="Lista 1",BR: SBT HD
