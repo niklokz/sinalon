@@ -8,7 +8,7 @@ https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV", tvg-name="Record SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="Record SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://televisao.tv/images/record-news.webp",Record News
