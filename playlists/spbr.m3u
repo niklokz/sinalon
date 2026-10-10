@@ -4,13 +4,13 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",21
 https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream1/chunklist.m3u8
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",22
 https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream2/chunklist.m3u8
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",23
 https://slbps-sambavideos.akamaized.net/liveevent/AoVivo_5ec898a15223a9cc166080d922102bb8/livestream3/chunklist.m3u8%  
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",2
