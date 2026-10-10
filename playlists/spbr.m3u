@@ -22,7 +22,13 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo.png",Band TV
-https://beyond.spalla.io/player/?live=0194f211-4229-749f-a47e-58f819471024
+https://beyond.spalla.io/player/?live=0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo.png",Band TV 2
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo.png",Band TV 3
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExZmIwMDFmLWQ0MDYtNGE2MS1iOGEwLTFmYjJjMzNlMTY5YSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTY2NTMxMCwibmJmIjoxNzkxNjY1MzEwLCJleHAiOjE3OTQyNTczMTAsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjExZmIwMDFmLWQ0MDYtNGE2MS1iOGEwLTFmYjJjMzNlMTY5YSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.fnHythU7Dz0YVkwhPlYE85XRZg2b8lr8Z1rz7jnjMZ4
 
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
 http://45.162.64.114/BAND_SPORTS/index.m3u8
