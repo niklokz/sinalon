@@ -17,9 +17,11 @@ http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="redetv.br@SD",Rede TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta (720p)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
 
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
