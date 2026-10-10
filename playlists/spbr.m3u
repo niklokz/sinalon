@@ -1,16 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
 
-
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="Undefined",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD PAULISTA (NX)
+https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD SP (CDN)
+https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/record.png"; group-title="RECORD", RECORD SP - RECORDPLUS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1098.m3u8
 
 #EXTINF:-1 tvg-id="Record.br@SD",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -622,6 +627,8 @@ http://168.197.104.22/TV_CULTURA/index.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="SBTNacional.br@SD",SBT Nacional (576p)
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="sbt.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 ## Invalidos ##
 
