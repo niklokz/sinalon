@@ -16,7 +16,7 @@ https://cdn-sp2.satlabscloud.com.br/SBT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKk
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #6 - Record News
 #EXTINF:-1 group-title="Notícias" tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg",Record News
-https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #7 - Record
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTv" tvg-name="Record TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",TV Record
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
