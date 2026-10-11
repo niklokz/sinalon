@@ -3,42 +3,42 @@
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-brasil-logo-png_seeklogo-325058.png",TV Brasil
 https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #2 - Cultura
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Cultura.br" tvg-name="BR - Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-6.png",TV Cultura
 https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #3 - SBT News
-#EXTINF:-1 group-title="Notícias" tvg-id="SBT News" tvg-name="SBT News" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/SBT_News_9e7e8cd186.jpg",SBT News
+#EXTINF:-1 group-title="Notícias" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-7.png",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #4 - SBT
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT SP" tvg-name="SBT São Paulo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTSP.br" tvg-name="BR - SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-5.png",SBT
 https://cdn-sp2.satlabscloud.com.br/SBT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #5 - Globo
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png",Rede Globo
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="GloboSP.br" tvg-name="BR - Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #6 - Record News
-#EXTINF:-1 group-title="Notícias" tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg",Record News
+#EXTINF:-1 group-title="Notícias" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg",Record News
 https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #7 - Record
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTv" tvg-name="Record TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",TV Record
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTVSP.br" tvg-name="BR - RecordTV SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",TV Record
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #8 - TV Camara
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br@SD" tvg-name="TV Camara" tvg-logo="",TV CAMARA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-name="BR - TV Camara" tvg-logo="",TV CAMARA
 https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #9 - RedeTV!
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png",Rede TV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-name="BR - RedeTV! SP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png",Rede TV
 https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #10 - Tv Justiça
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Tv Justica" tvg-name="TV Justiça" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png",TV Justiça
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png",TV Justiça
 https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #11 - Gazeta
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png",TV Gazeta
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVGazeta.br" tvg-name="BR - TV Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #12 - Band News
-#EXTINF:-1 group-title="Notícias" tvg-id="Band News" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Band News
+#EXTINF:-1 group-title="Notícias" tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Band News
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #13 - Band TV
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band TV" tvg-name="Band TV" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo.png",Band TV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo.png",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #14 - Band Sports
-#EXTINF:-1 group-title="Esportes" tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png",Band Sports
+#EXTINF:-1 group-title="Esportes" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png",Band Sports
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
