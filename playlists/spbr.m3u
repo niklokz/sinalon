@@ -1,7 +1,7 @@
-#EXTM3U
-#1 - TV Justiça
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Tv Justica" tvg-name="TV Justiça" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png",TV Justiça
-https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml"
+#1 - TV Brasil
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-brasil-logo-png_seeklogo-325058.png",TV Brasil
+https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #2 - Cultura
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",TV Cultura
 https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -26,6 +26,9 @@ https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 #9 - RedeTV!
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png",Rede TV
 https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#10 - Tv Justiça
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Tv Justica" tvg-name="TV Justiça" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png",TV Justiça
+https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #11 - Gazeta
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
