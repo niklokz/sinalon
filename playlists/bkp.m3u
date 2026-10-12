@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TVCamara.br@SD",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD",Canal Futura (720p)
