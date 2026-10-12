@@ -1,45 +1,161 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
-#1 - TV Brasil
+#1 - TV Camara
+#EXTINF:-1 group-title="Jornalismo" tvg-id="TVCamara.br" tvg-name="BR - TV Camara" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_C%C3%A2mara_logo_2018.png/250px-TV_C%C3%A2mara_logo_2018.png",TV CAMARA
+https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#2 - TV Brasil
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/330px-TV_Brasil_logo_2023.svg.png",TV Brasil
 https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#2 - Cultura
+#3 - Tv Justiça
+#EXTINF:-1 group-title="Jornalismo" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png/330px-TV_Justi%C3%A7a_logo.png",TV Justiça
+https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#4 - Cultura
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Cultura.br" tvg-name="BR - Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-6.png",TV Cultura
 https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#3 - SBT News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/330px-SBT_News_2025.svg.png",SBT News
-https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#4 - SBT
+#5 - SBT
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTSP.br" tvg-name="BR - SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-6.png",SBT
 https://cdn-sp2.satlabscloud.com.br/SBT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#5 - Globo
+#6 - Globo
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="GloboSP.br" tvg-name="BR - Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-300x300.png",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#6 - Record News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/330px-Record_News_logo_2023.svg.png",Record News
-https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #7 - Record
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTVSP.br" tvg-name="BR - RecordTV SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-266x266.png",TV Record
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#8 - TV Camara
-#EXTINF:-1 group-title="Jornalismo" tvg-id="TVCamara.br" tvg-name="BR - TV Camara" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_C%C3%A2mara_logo_2018.png/250px-TV_C%C3%A2mara_logo_2018.png",TV CAMARA
-https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#9 - RedeTV!
+#8 - RedeTV!
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-name="BR - RedeTV! SP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo-2.png",Rede TV
 https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#10 - Tv Justiça
-#EXTINF:-1 group-title="Jornalismo" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png/330px-TV_Justi%C3%A7a_logo.png",TV Justiça
-https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#11 - Gazeta
+#9 - Gazeta
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVGazeta.br" tvg-name="BR - TV Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-4.png",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#12 - Band News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo=https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/330px-BandNewsTV2024.svg.png",Band News
-https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#13 - Band TV
+#10 - Band TV
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#14 - Band Sports
+#EXTINF:-1,REDE SUPER
+https://cdn-sp2.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#11 - Sportv 3
+#EXTINF:-1 group-title="Esportes" tvg-id="SporTV3.br" tvg-name="BR - SporTV3" tvg-logo="", Sportv 3
+http://195.178.110.110/sportv/index.m3u8
+#12 - Sportv 2
+#EXTINF:-1 group-title="Esportes" tvg-id="SporTV2.br" tvg-name="BR - SporTV2" tvg-logo="", Sportv 2
+http://195.178.110.110/sportv/index.m3u8
+#13 - Sportv 1
+#EXTINF:-1 group-title="Esportes" tvg-id="SporTV.br" tvg-name="BR - SporTV" tvg-logo="", Sportv
+http://195.178.110.110/sportv/index.m3u8
+#14 - TLC
+#EXTINF:-1,TLC HD
+https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,FASHION TV HD
+https://cdn-sp2.satlabscloud.com.br/FASHION_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#15 - Arte 1
+#EXTINF:-1,Arte 1 HD
+https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#16 - FishTv
+#EXTINF:-1,FISHTV HD
+https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HGTV HD
+https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,CNBC HD
+https://cdn-sp2.satlabscloud.com.br/CNBC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#17 - Woohoo
+#EXTINF:-1,WOOHOO HD
+https://cdn-sp2.satlabscloud.com.br/WOOHOO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,XSPORTS HD
+https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#18 - ESPN
+#EXTINF:-1,ESPN HD
+https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#19 - ESPN 2
+#EXTINF:-1,ESPN 2 HD
+https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#20 - ESPN 3
+#EXTINF:-1,ESPN 3 HD
+https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#21 - ESPN 4
+#EXTINF:-1,ESPN 4 HD
+https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#22 - ESPN 5
+#EXTINF:-1,ESPN 5 HD
+https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#23 - ESPN 6
+#EXTINF:-1,ESPN 6 HD
+https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#24 - Band Sports
 #EXTINF:-1 group-title="Esportes" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/330px-BandSports2024.png",Band Sports
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#15 - 
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1,JOVEM PAN NEWS
+https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#25 - CNN Brasil
+#EXTINF:-1,CNN BRASIL
+https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#27 - Record News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/330px-Record_News_logo_2023.svg.png",Record News
+https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#28 - Band News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo=https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/330px-BandNewsTV2024.svg.png",Band News
+https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,RAI ITALIA HD
+https://cdn-sp2.satlabscloud.com.br/RAI_ITALIA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERY CHANNEL HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,ANIMAL PLANET HD
+https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HISTORY HD
+https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERYTURBO HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERY SCIENCE HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#26 - SBT News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/330px-SBT_News_2025.svg.png",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERY WORLD HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HISTORY 2 HD
+https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERY KIDS HD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,CARTOON HD
+https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,TOONCAST HD
+https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,Warner TV HD
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,SONY HD
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,SONY MOVIES HD
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,AXN HD
+https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,A&E HD
+https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,DISCOVERY ID HD
+https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,TNT SERIES HD
+https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,TNT HD
+https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,SPACE HD
+https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,CINEMAX
+https://cdn-sp2.satlabscloud.com.br/CINEMAX/playlist.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,TCM HD
+https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO HD
+https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO2 HD
+https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO+ PLUS HD
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO Family HD
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO SIGNATURE HD
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO Pop HD
+https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO Mundi HD
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,HBO XTREME HD
+https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,EURONEWS HD
+https://cdn-sp2.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
