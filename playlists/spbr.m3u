@@ -11,7 +11,7 @@ http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #4 - Tv Escola
 #5 - Tv Senado
 #6 - Rit Tv
-#EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV
+#EXTINF:-1 group-title="" tvg-id="RITtv.br" tvg-name="BR - RIT TV" tvg-logo="",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #7 - TV Evangelizar
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD",TV Evangelizar
@@ -74,6 +74,9 @@ https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
 #EXTINF:-1 tvg-id="VEJAPlusTV.br@HD",VEJA+
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#29 - Shark Tank Brasil
+#EXTINF:-1, Sony Shark Tank Brasil
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #28 - Chef TV
 #EXTINF:-1 tvg-id="ChefTV.br@SD",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
@@ -112,6 +115,9 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #35 - XSports
 #EXTINF:-1,XSPORTS HD
 https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#37 - Fifa Plus
+#EXTINF:-1, FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #36 - ESPN 1
 #EXTINF:-1,ESPN HD
 https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -173,6 +179,9 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=Mw3YKkuj
 #56 - History 2
 #EXTINF:-1,HISTORY 2 HD
 https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#56 - Gospel Cartoon
+#EXTINF:-1 tvg-id="GospelCartoon.br@SD",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #57 - Discovery Kids
 #EXTINF:-1,DISCOVERY KIDS HD
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -193,6 +202,9 @@ http://186.219.52.187/ratimbum/index.m3u8
 #64 - ToonCast
 #EXTINF:-1,TOONCAST HD
 https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#68 - Urban Kids
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2zggqt94" group-title="INFANTIL", URBAN KIDS
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #65 - DumDum
 #EXTINF:-1 tvg-id="DumDum.br@SD",DumDum
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -202,6 +214,9 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #67 - MTV Rocks
 #EXTINF:-1 tvg-id="MTVRocks.us@BR",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#68 - Manual do Mundo
+#EXTINF:-1, Manual do Mundo
+https://fast-channels.b-cdn.net/ogc/manmun/manmun_1080p.m3u8?bpkio_serviceid=9978b7063e297d84dbd9ac97ec5e2879
 #67 - PlayTv
 #EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
@@ -244,6 +259,9 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #78 - TCM
 #EXTINF:-1,TCM HD
 https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#79 - Gospel Movie
+#EXTINF:-1 tvg-id="GospelMovieTV.br@SD",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #79 - HBO
 #EXTINF:-1,HBO HD
 https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
