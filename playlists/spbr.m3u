@@ -1,44 +1,44 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
 #1 - TV Camara
-#EXTINF:-1 group-title="Jornalismo" tvg-id="TVCamara.br" tvg-name="BR - TV Camara" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_C%C3%A2mara_logo_2018.png/250px-TV_C%C3%A2mara_logo_2018.png",TV CAMARA
+#EXTINF:-1 group-title="Jornalismo" tvg-id="TVCamara.br" tvg-name="BR - TV Camara" tvg-logo="https://tinyurl.com/tvcamara-logo",TV CAMARA
 https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #2 - Tv Justiça
-#EXTINF:-1 group-title="Jornalismo" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png/330px-TV_Justi%C3%A7a_logo.png",TV Justiça
+#EXTINF:-1 group-title="Jornalismo" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://tinyurl.com/tvjustica-logo",TV Justiça
 https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #3 - Canal Educação
-#EXTINF:-1 group-title="Educativo" tvg-id="" tvg-name="" tvg-logo="",Canal Educação
+#EXTINF:-1 group-title="Educativo" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/canaleducacao-logo",Canal Educação
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #4 - Tv Escola
 #5 - Tv Senado
 #6 - Rit Tv
-#EXTINF:-1 group-title="Religioso" tvg-id="RITtv.br" tvg-name="BR - RIT TV" tvg-logo="",RIT TV
+#EXTINF:-1 group-title="Religioso" tvg-id="RITtv.br" tvg-name="BR - RIT TV" tvg-logo="https://tinyurl.com/rittv-logo",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #7 - TV Evangelizar
-#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="",TV Evangelizar
+#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/tvevangelizar-logo",TV Evangelizar
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #8 - Cultura Fast
-#EXTINF:-1 group-title="Cultura" tvg-id="" tvg-name="" tvg-logo="",Cultura Fast
+#EXTINF:-1 group-title="Cultura" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/culturafast-logo",Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #7 - Cultura
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Cultura.br" tvg-name="BR - Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-6.png",TV Cultura
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Cultura.br" tvg-name="BR - Cultura" tvg-logo="https://tinyurl.com/cultura-logo",TV Cultura
 https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #8 - SBT
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTSP.br" tvg-name="BR - SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-6.png",SBT
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTSP.br" tvg-name="BR - SBT SP" tvg-logo="https://tinyurl.com/sbt-logo",SBT
 https://cdn-sp2.satlabscloud.com.br/SBT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #9 - Globo
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="GloboSP.br" tvg-name="BR - Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-300x300.png",Rede Globo
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="GloboSP.br" tvg-name="BR - Globo SP" tvg-logo="https://tinyurl.com/redeglobo-logo",Rede Globo
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #10 - Record
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTVSP.br" tvg-name="BR - RecordTV SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-266x266.png",TV Record
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTVSP.br" tvg-name="BR - RecordTV SP" tvg-logo="https://tinyurl.com/recordtv-logo",TV Record
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #11 - RedeTV!
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-name="BR - RedeTV! SP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo-2.png",RedeTV!
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-name="BR - RedeTV! SP" tvg-logo="https://tinyurl.com/canalredetv-logo",RedeTV!
 https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #12 - Gazeta
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVGazeta.br" tvg-name="BR - TV Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-4.png",TV Gazeta
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVGazeta.br" tvg-name="BR - TV Gazeta" tvg-logo="https://tinyurl.com/gazeta-logo",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #13 - Band TV
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png",Band TV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://tinyurl.com/band-logo",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #14 - Rede Gospel
 #EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="",Rede Gospel
