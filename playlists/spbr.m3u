@@ -72,13 +72,13 @@ http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="https://tinyurl.com/uol-logo",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
-#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",VEJATV
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/veja-logo",VEJATV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #29 - Shark Tank Brasil
 #EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/sharktank-logo",Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #28 - Chef TV
-#EXTINF:-1 group-title="Gastronomia" tvg-id="ChefTV.br" tvg-name="BR - Chef TV" tvg-logo="",Chef TV
+#EXTINF:-1 group-title="Gastronomia" tvg-id="ChefTV.br" tvg-name="BR - Chef TV" tvg-logo="https://tinyurl.com/cheftv-logo",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
 #25 - Fashion TV
 #EXTINF:-1 group-title="Estilo de Vida" tvg-id="FashionTV.br" tvg-name="BR - FashionTV" tvg-logo="https://tinyurl.com/tvfashion-logo",Fashion TV
@@ -95,46 +95,46 @@ https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 #EXTINF:-1 group-title="Esportivos" tvg-id="FishTV.br" tvg-name="BR - FishTV" tvg-logo="https://tinyurl.com/fishtv-logo",Fish TV
 https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #33 - PetLovers
-#EXTINF:-1 group-title="Documentários" tvg-id="" tvg-name="" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",Petlovers TV
+#EXTINF:-1 group-title="Documentários" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/petloverstv-logo",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #31 - HGTV
-#EXTINF:-1 group-title="Documentários" tvg-id="HGTV.br" tvg-name="BR - HGTV" tvg-logo="",HGTV
+#EXTINF:-1 group-title="Documentários" tvg-id="HGTV.br" tvg-name="BR - HGTV" tvg-logo="https://tinyurl.com/canalhgtv-logo",HGTV
 https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #32 - Sabor & Arte
-#EXTINF:-1 group-title="Gastronomia" tvg-id="SaborandArte.br" tvg-name="BR - Sabor &amp; Arte" tvg-logo="",Sabor & Arte
+#EXTINF:-1 group-title="Gastronomia" tvg-id="SaborandArte.br" tvg-name="BR - Sabor &amp; Arte" tvg-logo="https://tinyurl.com/saborearte-logo",Sabor & Arte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/Sabor_e_Arte_BR/Sabor_e_Arte.m3u8
 #33 - CNBC
-#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",CNBC
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/cnbc-logo",CNBC
 https://cdn-sp2.satlabscloud.com.br/CNBC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #34 - Woohoo
-#EXTINF:-1 group-title="Entretenimento" tvg-id="WooHoo.br" tvg-name="BR - WooHoo" tvg-logo="",WooHoo
+#EXTINF:-1 group-title="Entretenimento" tvg-id="WooHoo.br" tvg-name="BR - WooHoo" tvg-logo="https://tinyurl.com/woohoo-logo",WooHoo
 https://cdn-sp2.satlabscloud.com.br/WOOHOO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 # - NSports
-#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="",NSports
+#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/nsports-logo",NSports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #35 - XSports
-#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="",XSports
+#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/xsports-logo",XSports
 https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #37 - Fifa Plus
-#EXTINF:-1 group-title="Esportivos" tvg-id="FIFA+.br" tvg-name="BR - FIFA+" tvg-logo="",FIFA+
+#EXTINF:-1 group-title="Esportivos" tvg-id="FIFA+.br" tvg-name="BR - FIFA+" tvg-logo="https://tinyurl.com/fifaplus-logo",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #36 - ESPN 1
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="",ESPN
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/ESPN_logo.png/330px-ESPN_logo.png",ESPN
 https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #37 - ESPN 2
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="",ESPN2
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",ESPN2
 https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #38 - ESPN 3
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="",ESPN3
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN3
 https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #39 - ESPN 4
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="",ESPN4
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN4
 https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #40 - ESPN 5
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="",ESPN5
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",ESPN5
 https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #41 - ESPN 6
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="",ESPN6
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN6
 https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #42 - Band Sports
 #EXTINF:-1 group-title="Esportivos" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/330px-BandSports2024.png",Band Sports
