@@ -6,18 +6,18 @@ https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 #EXTINF:-1 group-title="Jornalismo" tvg-id="TVJustica.br" tvg-name="BR - TV Justica" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TV_Justi%C3%A7a_logo.png/330px-TV_Justi%C3%A7a_logo.png",TV Justiça
 https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #3 - Canal Educação
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Educação
+#EXTINF:-1 group-title="Educativo" tvg-id="" tvg-name="" tvg-logo="",Canal Educação
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #4 - Tv Escola
 #5 - Tv Senado
 #6 - Rit Tv
-#EXTINF:-1 group-title="" tvg-id="RITtv.br" tvg-name="BR - RIT TV" tvg-logo="",RIT TV
+#EXTINF:-1 group-title="Religioso" tvg-id="RITtv.br" tvg-name="BR - RIT TV" tvg-logo="",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #7 - TV Evangelizar
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Evangelizar
+#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="",TV Evangelizar
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #8 - Cultura Fast
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Cultura Fast
+#EXTINF:-1 group-title="Cultura" tvg-id="" tvg-name="" tvg-logo="",Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #7 - Cultura
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Cultura.br" tvg-name="BR - Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-6.png",TV Cultura
@@ -41,109 +41,109 @@ http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #14 - Rede Gospel
-#EXTINF:-1 group-title="" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="",Rede Gospel
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #15 - Rede Brasil
-#EXTINF:-1 group-title="" tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="",Rede Brasil
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #15 - TV Brasil
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/330px-TV_Brasil_logo_2023.svg.png",TV Brasil
 https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #16 - Futura
-#EXTINF:-1 group-title="" tvg-id="Futura.br" tvg-name="BR - Futura" tvg-logo="",Canal Futura
+#EXTINF:-1 group-title="Educativo" tvg-id="Futura.br" tvg-name="BR - Futura" tvg-logo="",Canal Futura
 http://45.162.64.114/FUTURA/index.m3u8
 #17 - GeTv GeFast
-#EXTINF:-1 group-title="" tvg-id="GETV.br" tvg-name="BR - GE TV" tvg-logo="",GEtv
+#EXTINF:-1 group-title="Esportivos" tvg-id="GETV.br" tvg-name="BR - GE TV" tvg-logo="",GEtv
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #17 - Sportv 3
-#EXTINF:-1 group-title="Esportes" tvg-id="SporTV3.br" tvg-name="BR - SporTV3" tvg-logo="", Sportv 3
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV3.br" tvg-name="BR - SporTV3" tvg-logo="", Sportv 3
 http://195.178.110.110/sportv/index.m3u8
 #18 - Sportv 2
-#EXTINF:-1 group-title="Esportes" tvg-id="SporTV2.br" tvg-name="BR - SporTV2" tvg-logo="", Sportv 2
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV2.br" tvg-name="BR - SporTV2" tvg-logo="", Sportv 2
 http://195.178.110.110/sportv/index.m3u8
 #19 - Sportv 1
-#EXTINF:-1 group-title="Esportes" tvg-id="SporTV.br" tvg-name="BR - SporTV" tvg-logo="", Sportv 1
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV.br" tvg-name="BR - SporTV" tvg-logo="", Sportv 1
 http://195.178.110.110/sportv/index.m3u8
 #20 - Globo News
 #21 - GNT
 #22 - Multishow
 #23 - Viva
 #24 - Canal Uol
-#EXTINF:-1 group-title="" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="",Canal UOL
+#EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VEJA+
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",VEJA+
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #29 - Shark Tank Brasil
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Shark Tank Brasil
+#EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="",Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #28 - Chef TV
-#EXTINF:-1 group-title="" tvg-id="ChefTV.br" tvg-name="BR - Chef TV" tvg-logo="",Chef TV
+#EXTINF:-1 group-title="Gastronomia" tvg-id="ChefTV.br" tvg-name="BR - Chef TV" tvg-logo="",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
 #25 - Fashion TV
-#EXTINF:-1 group-title="" tvg-id="FashionTV.br" tvg-name="BR - FashionTV" tvg-logo="",Fashion TV
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="FashionTV.br" tvg-name="BR - FashionTV" tvg-logo="",Fashion TV
 https://cdn-sp2.satlabscloud.com.br/FASHION_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #26 - TLC
-#EXTINF:-1 group-title="" tvg-id="TLC.br" tvg-name="BR - TLC HD" tvg-logo="",TLC
+#EXTINF:-1 group-title="Reality Show" tvg-id="TLC.br" tvg-name="BR - TLC HD" tvg-logo="",TLC
 https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #27 - Arte 1
-#EXTINF:-1 group-title="" tvg-id="Arte1.br" tvg-name="BR - Arte 1" tvg-logo="",Arte 1
+#EXTINF:-1 group-title="Cultura" tvg-id="Arte1.br" tvg-name="BR - Arte 1" tvg-logo="",Arte 1
 https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #28 - Food Network
 #29 - Discovery H&H
 #30 - FishTv
-#EXTINF:-1 group-title="" tvg-id="FishTV.br" tvg-name="BR - FishTV" tvg-logo="",Fish TV
+#EXTINF:-1 group-title="Esportivos" tvg-id="FishTV.br" tvg-name="BR - FishTV" tvg-logo="",Fish TV
 https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #33 - PetLovers
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Petlovers TV
+#EXTINF:-1 group-title="Documentários" tvg-id="" tvg-name="" tvg-logo="",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #31 - HGTV
-#EXTINF:-1 group-title="" tvg-id="HGTV.br" tvg-name="BR - HGTV" tvg-logo="",HGTV
+#EXTINF:-1 group-title="Documentários" tvg-id="HGTV.br" tvg-name="BR - HGTV" tvg-logo="",HGTV
 https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #32 - Sabor & Arte
-#EXTINF:-1 group-title="" tvg-id="SaborandArte.br" tvg-name="BR - Sabor &amp; Arte" tvg-logo="",Sabor & Arte
+#EXTINF:-1 group-title="Gastronomia" tvg-id="SaborandArte.br" tvg-name="BR - Sabor &amp; Arte" tvg-logo="",Sabor & Arte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/Sabor_e_Arte_BR/Sabor_e_Arte.m3u8
 #33 - CNBC
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CNBC
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",CNBC
 https://cdn-sp2.satlabscloud.com.br/CNBC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #34 - Woohoo
-#EXTINF:-1 group-title="" tvg-id="WooHoo.br" tvg-name="BR - WooHoo" tvg-logo="",WooHoo
+#EXTINF:-1 group-title="Entretenimento" tvg-id="WooHoo.br" tvg-name="BR - WooHoo" tvg-logo="",WooHoo
 https://cdn-sp2.satlabscloud.com.br/WOOHOO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 # - NSports
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NSports
+#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="",NSports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #35 - XSports
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",XSports
+#EXTINF:-1 group-title="Esportivos" tvg-id="" tvg-name="" tvg-logo="",XSports
 https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #37 - Fifa Plus
-#EXTINF:-1 group-title="" tvg-id="FIFA+.br" tvg-name="BR - FIFA+" tvg-logo="",FIFA+
+#EXTINF:-1 group-title="Esportivos" tvg-id="FIFA+.br" tvg-name="BR - FIFA+" tvg-logo="",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #36 - ESPN 1
-#EXTINF:-1 group-title="" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="",ESPN
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="",ESPN
 https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #37 - ESPN 2
-#EXTINF:-1 group-title="" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="",ESPN2
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="",ESPN2
 https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #38 - ESPN 3
-#EXTINF:-1 group-title="" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="",ESPN3
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="",ESPN3
 https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #39 - ESPN 4
-#EXTINF:-1 group-title="" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="",ESPN4
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="",ESPN4
 https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #40 - ESPN 5
-#EXTINF:-1 group-title="" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="",ESPN5
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="",ESPN5
 https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #41 - ESPN 6
-#EXTINF:-1 group-title="" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="",ESPN6
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="",ESPN6
 https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #42 - Band Sports
-#EXTINF:-1 group-title="Esportes" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/330px-BandSports2024.png",Band Sports
+#EXTINF:-1 group-title="Esportivos" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/330px-BandSports2024.png",Band Sports
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #43 - JovenPan News
-#EXTINF:-1 group-title="" tvg-id="JovemPanNews.br" tvg-name="BR - Jovem Pan News" tvg-logo="",JovemPan News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="JovemPanNews.br" tvg-name="BR - Jovem Pan News" tvg-logo="",JovemPan News
 https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #44 - CNN Brasil
-#EXTINF:-1 group-title="" tvg-id="CNN.br" tvg-name="BR - CNN" tvg-logo="",CNN Brasil
+#EXTINF:-1 group-title="Jornalismo" tvg-id="CNN.br" tvg-name="BR - CNN" tvg-logo="",CNN Brasil
 https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #45 - Record News
 #EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/330px-Record_News_logo_2023.svg.png",Record News
@@ -153,172 +153,172 @@ https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #47 - National Geographic
 #48 - Discovery Channel
-#EXTINF:-1 group-title="" tvg-id="DiscoveryChannel.br" tvg-name="BR - Discovery" tvg-logo="",Discovery Channel
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryChannel.br" tvg-name="BR - Discovery" tvg-logo="",Discovery Channel
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #49 - Animal Planet
-#EXTINF:-1 group-title="" tvg-id="AnimalPlanet.br" tvg-name="BR - Animal Planet" tvg-logo="",Animal Planet
+#EXTINF:-1 group-title="Documentários" tvg-id="AnimalPlanet.br" tvg-name="BR - Animal Planet" tvg-logo="",Animal Planet
 https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #50 - History Channel
-#EXTINF:-1 group-title="" tvg-id="HistoryChannel.br" tvg-name="BR - History Channel" tvg-logo="",History Channel
+#EXTINF:-1 group-title="Documentários" tvg-id="HistoryChannel.br" tvg-name="BR - History Channel" tvg-logo="",History Channel
 https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #51 - Discovery Turbo
-#EXTINF:-1 group-title="" tvg-id="DiscoveryTurbo.br" tvg-name="BR - Discovery Turbo" tvg-logo="",Discovery Turbo
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTurbo.br" tvg-name="BR - Discovery Turbo" tvg-logo="",Discovery Turbo
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #52 - Discovery Science 
-#EXTINF:-1 group-title="" tvg-id="DiscoveryScience.br" tvg-name="BR - Discovery Science" tvg-logo="",Discovery Science
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryScience.br" tvg-name="BR - Discovery Science" tvg-logo="",Discovery Science
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #53 - SBT News
 #EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/330px-SBT_News_2025.svg.png",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #54 - Discovery Theater
-#EXTINF:-1 group-title="" tvg-id="DiscoveryTheater.br" tvg-name="BR - Discovery Theater" tvg-logo="",Discovery Theater
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTheater.br" tvg-name="BR - Discovery Theater" tvg-logo="",Discovery Theater
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #55 - Discovery World
-#EXTINF:-1 group-title="" tvg-id="DiscoveryWorld.br" tvg-name="BR - Discovery World" tvg-logo="",Discovery World
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryWorld.br" tvg-name="BR - Discovery World" tvg-logo="",Discovery World
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #56 - History 2
-#EXTINF:-1 group-title="" tvg-id="History2.br" tvg-name="BR - History 2" tvg-logo="",History 2
+#EXTINF:-1 group-title="Documentários" tvg-id="History2.br" tvg-name="BR - History 2" tvg-logo="",History 2
 https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #56 - Gospel Cartoon
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Gospel Cartoon
+#EXTINF:-1 group-title="Infantil" tvg-id="" tvg-name="" tvg-logo="",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #57 - Discovery Kids
-#EXTINF:-1 group-title="" tvg-id="DiscoveryKids.br" tvg-name="BR - Discovery Kids" tvg-logo="",Discovery Kids
+#EXTINF:-1 group-title="Infantil" tvg-id="DiscoveryKids.br" tvg-name="BR - Discovery Kids" tvg-logo="",Discovery Kids
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #58 - Gloob
 #59 - Disney Channel
 #60 - Nickelodeon (somente paramount+)
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Nickelodeon iCarly
+#EXTINF:-1 group-title="Infantil" tvg-id="" tvg-name="" tvg-logo="",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #61 - Cartoon Network
-#EXTINF:-1 group-title="" tvg-id="CartoonNetwork.br" tvg-name="BR - Cartoon Network" tvg-logo="",Cartoon Network
+#EXTINF:-1 group-title="Infantil" tvg-id="CartoonNetwork.br" tvg-name="BR - Cartoon Network" tvg-logo="",Cartoon Network
 https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #62 - Box Kids
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Box Kids TV
+#EXTINF:-1 group-title="Infantil" tvg-id="" tvg-name="" tvg-logo="",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #63 - TV RaTimBum
-#EXTINF:-1 group-title="" tvg-id="TVRaTimBum.br" tvg-name="BR - TV Ra Tim Bum" tvg-logo="",TV RaTimBum
+#EXTINF:-1 group-title="Infantil" tvg-id="TVRaTimBum.br" tvg-name="BR - TV Ra Tim Bum" tvg-logo="",TV RaTimBum
 http://186.219.52.187/ratimbum/index.m3u8
 #64 - ToonCast
-#EXTINF:-1 group-title="" tvg-id="Tooncast.br" tvg-name="BR - Tooncast" tvg-logo="",ToonCast
+#EXTINF:-1 group-title="Infantil" tvg-id="Tooncast.br" tvg-name="BR - Tooncast" tvg-logo="",ToonCast
 https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #68 - Urban Kids
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Urban Kids
+#EXTINF:-1 group-title="Infantil" tvg-id="" tvg-name="" tvg-logo="",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #65 - DumDum
-#EXTINF:-1 group-title="" tvg-id="ZooMoo.br" tvg-name="BR - ZooMoo" tvg-logo="",DumDum
+#EXTINF:-1 group-title="Infantil" tvg-id="ZooMoo.br" tvg-name="BR - ZooMoo" tvg-logo="",DumDum
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #66 - MTV Biggest Pop
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MTV Biggest Pop
+#EXTINF:-1 group-title="Músicas" tvg-id="" tvg-name="" tvg-logo="",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #67 - MTV Rocks
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MTV Rocks
+#EXTINF:-1 group-title="Músicas" tvg-id="" tvg-name="" tvg-logo="",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #68 - Manual do Mundo
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Manual do Mundo
+#EXTINF:-1 group-title="Educativo" tvg-id="" tvg-name="" tvg-logo="",Manual do Mundo
 https://fast-channels.b-cdn.net/ogc/manmun/manmun_1080p.m3u8?bpkio_serviceid=9978b7063e297d84dbd9ac97ec5e2879
 #67 - PlayTv
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Play TV
+#EXTINF:-1 group-title="Entretenimento" tvg-id="" tvg-name="" tvg-logo="",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #67 - Elemental Channel
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Elemental Channel
+#EXTINF:-1 group-title="Documentário" tvg-id="" tvg-name="" tvg-logo="",Elemental Channel
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #68 - Warner Bross
-#EXTINF:-1 group-title="" tvg-id="WarnerChannel.br" tvg-name="BR - Warner Channel" tvg-logo="",Warner Channel
+#EXTINF:-1 group-title="Filmes" tvg-id="WarnerChannel.br" tvg-name="BR - Warner Channel" tvg-logo="",Warner Channel
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #69 - Sony Movies
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Sony Movies
+#EXTINF:-1 group-title="Filmes" tvg-id="" tvg-name="" tvg-logo="",Sony Movies
 https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #70 - Sony Channel
-#EXTINF:-1 group-title="" tvg-id="Channel.br" tvg-name="BR - Sony" tvg-logo="",Sony Channel
+#EXTINF:-1 group-title="Filmes" tvg-id="Channel.br" tvg-name="BR - Sony" tvg-logo="",Sony Channel
 https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #71 - AXN
-#EXTINF:-1 group-title="" tvg-id="AXN.br" tvg-name="BR - AXN" tvg-logo="",AXN
+#EXTINF:-1 group-title="Filmes" tvg-id="AXN.br" tvg-name="BR - AXN" tvg-logo="",AXN
 https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #72 - A&E
-#EXTINF:-1 group-title="" tvg-id="AandE.br" tvg-name="BR - A&amp;E" tvg-logo="",A&E
+#EXTINF:-1 group-title="Documentário" tvg-id="AandE.br" tvg-name="BR - A&amp;E" tvg-logo="",A&E
 https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #73 - Discovery ID
-#EXTINF:-1 group-title="" tvg-id="InvestigacaoDiscovery.br" tvg-name="BR - Investigação Discovery" tvg-logo="",Discovery ID
+#EXTINF:-1 group-title="Documentário" tvg-id="InvestigacaoDiscovery.br" tvg-name="BR - Investigação Discovery" tvg-logo="",Discovery ID
 https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #74 - TNT Series
-#EXTINF:-1 group-title="" tvg-id="TNTSeries.br" tvg-name="BR - TNT Series" tvg-logo="",TNT Series
+#EXTINF:-1 group-title="Séries" tvg-id="TNTSeries.br" tvg-name="BR - TNT Series" tvg-logo="",TNT Series
 https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #75 - TNT
-#EXTINF:-1 group-title="" tvg-id="TNT.br" tvg-name="BR - TNT" tvg-logo="",TNT
+#EXTINF:-1 group-title="Filmes" tvg-id="TNT.br" tvg-name="BR - TNT" tvg-logo="",TNT
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #76 - Space
-#EXTINF:-1 group-title="" tvg-id="Space.br" tvg-name="BR - Space" tvg-logo="",Space
+#EXTINF:-1 group-title="Filmes" tvg-id="Space.br" tvg-name="BR - Space" tvg-logo="",Space
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #77 - Cinemax
-#EXTINF:-1 group-title="" tvg-id="Cinemax.br" tvg-name="BR - Cinemax" tvg-logo="",Cinemax
+#EXTINF:-1 group-title="Filmes" tvg-id="Cinemax.br" tvg-name="BR - Cinemax" tvg-logo="",Cinemax
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/playlist.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #78 - AWTV
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",AWTV
+#EXTINF:-1 group-title="Filmes" tvg-id="" tvg-name="" tvg-logo="",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #78 - TCM
-#EXTINF:-1 group-title="" tvg-id="TCM.br" tvg-name="BR - TCM" tvg-logo="",TCM
+#EXTINF:-1 group-title="Filmes" tvg-id="TCM.br" tvg-name="BR - TCM" tvg-logo="",TCM
 https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #79 - Gospel Movie
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Gospel Movie TV
+#EXTINF:-1 group-title="Filmes" tvg-id="" tvg-name="" tvg-logo="",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #79 - HBO
-#EXTINF:-1 group-title="" tvg-id="HBO.br" tvg-name="BR - HBO" tvg-logo="",HBO
+#EXTINF:-1 group-title="Filmes" tvg-id="HBO.br" tvg-name="BR - HBO" tvg-logo="",HBO
 https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #80 - HBO2
-#EXTINF:-1 group-title="" tvg-id="HBO2.br" tvg-name="BR - HBO 2" tvg-logo="",HBO 2
+#EXTINF:-1 group-title="Filmes" tvg-id="HBO2.br" tvg-name="BR - HBO 2" tvg-logo="",HBO 2
 https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #81 - HBO Plus
-#EXTINF:-1 group-title="" tvg-id="HBOPlus.br" tvg-name="BR - HBO Plus" tvg-logo="",HBO+
+#EXTINF:-1 group-title="Filmes" tvg-id="HBOPlus.br" tvg-name="BR - HBO Plus" tvg-logo="",HBO+
 https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #82 - HBO Family
-#EXTINF:-1 group-title="" tvg-id="HBOFamily.br" tvg-name="BR - HBO Family" tvg-logo="",HBO Family
+#EXTINF:-1 group-title="Infantil" tvg-id="HBOFamily.br" tvg-name="BR - HBO Family" tvg-logo="",HBO Family
 https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #83 - HBO Signature
-#EXTINF:-1 group-title="" tvg-id="HBOSignature.br" tvg-name="BR - HBO Signature" tvg-logo="",HBO Signature
+#EXTINF:-1 group-title="Filmes" tvg-id="HBOSignature.br" tvg-name="BR - HBO Signature" tvg-logo="",HBO Signature
 https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #84 - HBO Pop
-#EXTINF:-1 group-title="" tvg-id="HBOPop.br" tvg-name="BR - HBO Pop" tvg-logo="",HBO Pop
+#EXTINF:-1 group-title="Filmes" tvg-id="HBOPop.br" tvg-name="BR - HBO Pop" tvg-logo="",HBO Pop
 https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #85 - HBO Mundi
-#EXTINF:-1 group-title="" tvg-id="HBOMundi.br" tvg-name="BR - HBO Mundi" tvg-logo="",HBO Mundi
+#EXTINF:-1 group-title="Filmes" tvg-id="HBOMundi.br" tvg-name="BR - HBO Mundi" tvg-logo="",HBO Mundi
 https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #86 - HBO Extreme
-#EXTINF:-1 group-title="" tvg-id="HBOXtreme.br" tvg-name="BR - HBO Xtreme" tvg-logo="",HBO Extreme
+#EXTINF:-1 group-title="Filmes" tvg-id="HBOXtreme.br" tvg-name="BR - HBO Xtreme" tvg-logo="",HBO Extreme
 https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #87 - Terra Viva
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Terra Viva
+#EXTINF:-1 group-title="Agronegócio" tvg-id="" tvg-name="" tvg-logo="",Terra Viva
 http://45.162.64.114/TERRAVIVA/index.m3u8
 #87 - Canal Rural
-#EXTINF:-1 group-title="" tvg-id="CanalRural.br" tvg-name="BR - Canal Rural" tvg-logo="",Canal Rural
+#EXTINF:-1 group-title="Agronegócio" tvg-id="CanalRural.br" tvg-name="BR - Canal Rural" tvg-logo="",Canal Rural
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #88 - Agro Mais
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Agro+
+#EXTINF:-1 group-title="Agronegócio" tvg-id="" tvg-name="" tvg-logo="",Agro+
 http://45.162.64.114/AGROMAIS/index.m3u8
 #89 - Canal do Boi
-#EXTINF:-1 group-title="" tvg-id="CanaldoBoi.br" tvg-name="BR - Canal do Boi" tvg-logo="",Canal do Boi
+#EXTINF:-1 group-title="Agronegócio" tvg-id="CanaldoBoi.br" tvg-name="BR - Canal do Boi" tvg-logo="",Canal do Boi
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #90 - Tv Pai Eterno
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Pai Eterno
+#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="",TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #91 - Rede Vida
-#EXTINF:-1 group-title="" tvg-id="RedeVida.br" tvg-name="BR - Rede Vida" tvg-logo="",Rede Vida
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeVida.br" tvg-name="BR - Rede Vida" tvg-logo="",Rede Vida
 http://168.197.104.22/REDE_VIDA/index.m3u8
 #90 - Tv Canção Nova
-#EXTINF:-1 group-title="" tvg-id="CancaoNova.br" tvg-name="BR - Canção Nova HD" tvg-logo="",TV Canção Nova
+#EXTINF:-1 group-title="Religioso" tvg-id="CancaoNova.br" tvg-name="BR - Canção Nova HD" tvg-logo="",TV Canção Nova
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
 #90 - TV Aparecida
-#EXTINF:-1 group-title="" tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="",TV Aparecida
+#EXTINF:-1 group-title="Religioso" tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="",TV Aparecida
 http://45.162.64.114/TV_APARECIDA/index.m3u8
 #91 - Rede Super
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Rede Super
+#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="",Rede Super
 https://cdn-sp2.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #92 - IMPD
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",IMPD
+#EXTINF:-1 group-title="Religioso" tvg-id="" tvg-name="" tvg-logo="",IMPD
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #93 - Euro News
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Euro News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",Euro News
 https://cdn-sp2.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #94 - Rai Itália
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Rai Itália
+#EXTINF:-1 group-title="Cultura" tvg-id="" tvg-name="" tvg-logo="",Rai Itália
 https://cdn-sp2.satlabscloud.com.br/RAI_ITALIA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
