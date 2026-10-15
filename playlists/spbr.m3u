@@ -41,38 +41,38 @@ http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://tinyurl.com/band-logo",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #14 - Rede Gospel
-#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="https://thumb.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/330px-LGT_Rede_Gospel.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Rede Gospel
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="https://tinyurl.com/redegospel-logo",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #15 - Rede Brasil
-#EXTINF:-1 group-title="Religioso" tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="",Rede Brasil
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="https://tinyurl.com/tvredebrasil-logo",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #15 - TV Brasil
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/330px-TV_Brasil_logo_2023.svg.png",TV Brasil
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://tinyurl.com/tvbrasil-logo",TV Brasil
 https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #16 - Futura
-#EXTINF:-1 group-title="Educativo" tvg-id="Futura.br" tvg-name="BR - Futura" tvg-logo="",Canal Futura
+#EXTINF:-1 group-title="Educativo" tvg-id="Futura.br" tvg-name="BR - Futura" tvg-logo="https://tinyurl.com/tvfutura-logo",Canal Futura
 http://45.162.64.114/FUTURA/index.m3u8
 #17 - GeTv GeFast
-#EXTINF:-1 group-title="Esportivos" tvg-id="GETV.br" tvg-name="BR - GE TV" tvg-logo="",GEtv
+#EXTINF:-1 group-title="Esportivos" tvg-id="GETV.br" tvg-name="BR - GE TV" tvg-logo="https://tinyurl.com/getv-logo",GEtv
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #17 - Sportv 3
-#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV3.br" tvg-name="BR - SporTV3" tvg-logo="", Sportv 3
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV3.br" tvg-name="BR - SporTV3" tvg-logo="https://tinyurl.com/sportv3n-logo", Sportv 3
 http://195.178.110.110/sportv/index.m3u8
 #18 - Sportv 2
-#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV2.br" tvg-name="BR - SporTV2" tvg-logo="", Sportv 2
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV2.br" tvg-name="BR - SporTV2" tvg-logo="https://tinyurl.com/sportv2n-logo", Sportv 2
 http://195.178.110.110/sportv/index.m3u8
 #19 - Sportv 1
-#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV.br" tvg-name="BR - SporTV" tvg-logo="", Sportv 1
+#EXTINF:-1 group-title="Esportivos" tvg-id="SporTV.br" tvg-name="BR - SporTV" tvg-logo="https://tinyurl.com/sportv1n-logo", Sportv 1
 http://195.178.110.110/sportv/index.m3u8
 #20 - Globo News
 #21 - GNT
 #22 - Multishow
 #23 - Viva
 #24 - Canal Uol
-#EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="",Canal UOL
+#EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="https://tinyurl.com/uol-logo",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
-#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",VEJA+
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://vejario.abril.com.br/wp-content/uploads/2025/10/veja.webp?crop=1&resize=250,200",VEJATV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #29 - Shark Tank Brasil
 #EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="",Shark Tank Brasil
