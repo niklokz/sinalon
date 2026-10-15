@@ -125,7 +125,7 @@ https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 #EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",ESPN2
 https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #38 - ESPN 3
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN3
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="https://espnpressroom.com/wp-content/uploads/1/2012/09/ESPN3-Logo.jpg",ESPN3
 https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #39 - ESPN 4
 #EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN4
