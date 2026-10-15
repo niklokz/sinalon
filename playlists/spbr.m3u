@@ -72,7 +72,7 @@ http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="https://tinyurl.com/uol-logo",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
-#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://vejario.abril.com.br/wp-content/uploads/2025/10/veja.webp?crop=1&resize=250,200",VEJATV
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://veja.abril.com.br/wp-content/themes/abril-veja/inc/images/logo-header.gif",VEJATV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #29 - Shark Tank Brasil
 #EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="",Shark Tank Brasil
