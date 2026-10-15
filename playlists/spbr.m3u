@@ -41,7 +41,7 @@ http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="BandSP.br" tvg-name="BR - Band SP" tvg-logo="https://tinyurl.com/band-logo",Band TV
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #14 - Rede Gospel
-#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="",Rede Gospel
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="BR - Rede Gospel" tvg-logo="https://thumb.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/330px-LGT_Rede_Gospel.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #15 - Rede Brasil
 #EXTINF:-1 group-title="Religioso" tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="",Rede Brasil
