@@ -72,30 +72,30 @@ http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 group-title="Jornalismo" tvg-id="UOL.br" tvg-name="BR - UOL" tvg-logo="https://tinyurl.com/uol-logo",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #27 - Veja Plus
-#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="https://veja.abril.com.br/wp-content/themes/abril-veja/inc/images/logo-header.gif",VEJATV
+#EXTINF:-1 group-title="Jornalismo" tvg-id="" tvg-name="" tvg-logo="",VEJATV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #29 - Shark Tank Brasil
-#EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="",Shark Tank Brasil
+#EXTINF:-1 group-title="Negócios" tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/sharktank-logo",Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #28 - Chef TV
 #EXTINF:-1 group-title="Gastronomia" tvg-id="ChefTV.br" tvg-name="BR - Chef TV" tvg-logo="",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
 #25 - Fashion TV
-#EXTINF:-1 group-title="Estilo de Vida" tvg-id="FashionTV.br" tvg-name="BR - FashionTV" tvg-logo="",Fashion TV
+#EXTINF:-1 group-title="Estilo de Vida" tvg-id="FashionTV.br" tvg-name="BR - FashionTV" tvg-logo="https://tinyurl.com/tvfashion-logo",Fashion TV
 https://cdn-sp2.satlabscloud.com.br/FASHION_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #26 - TLC
-#EXTINF:-1 group-title="Reality Show" tvg-id="TLC.br" tvg-name="BR - TLC HD" tvg-logo="",TLC
+#EXTINF:-1 group-title="Reality Show" tvg-id="TLC.br" tvg-name="BR - TLC HD" tvg-logo="https://tinyurl.com/tlc-logo",TLC
 https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #27 - Arte 1
-#EXTINF:-1 group-title="Cultura" tvg-id="Arte1.br" tvg-name="BR - Arte 1" tvg-logo="",Arte 1
+#EXTINF:-1 group-title="Cultura" tvg-id="Arte1.br" tvg-name="BR - Arte 1" tvg-logo="https://tinyurl.com/arte1-logo",Arte 1
 https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #28 - Food Network
 #29 - Discovery H&H
 #30 - FishTv
-#EXTINF:-1 group-title="Esportivos" tvg-id="FishTV.br" tvg-name="BR - FishTV" tvg-logo="",Fish TV
+#EXTINF:-1 group-title="Esportivos" tvg-id="FishTV.br" tvg-name="BR - FishTV" tvg-logo="https://tinyurl.com/fishtv-logo",Fish TV
 https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #33 - PetLovers
-#EXTINF:-1 group-title="Documentários" tvg-id="" tvg-name="" tvg-logo="",Petlovers TV
+#EXTINF:-1 group-title="Documentários" tvg-id="" tvg-name="" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #31 - HGTV
 #EXTINF:-1 group-title="Documentários" tvg-id="HGTV.br" tvg-name="BR - HGTV" tvg-logo="",HGTV
