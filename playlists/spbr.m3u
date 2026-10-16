@@ -119,25 +119,25 @@ https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=Mw3YK
 #EXTINF:-1 group-title="Esportivos" tvg-id="FIFA+.br" tvg-name="BR - FIFA+" tvg-logo="https://tinyurl.com/fifaplus-logo",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #36 - ESPN 1
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/ESPN_logo.png/330px-ESPN_logo.png",ESPN
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN.br" tvg-name="BR - ESPN" tvg-logo="https://tinyurl.com/espn1-logo",ESPN
 https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #37 - ESPN 2
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",ESPN2
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN2.br" tvg-name="BR - ESPN 2" tvg-logo="https://tinyurl.com/espn2-logo",ESPN2
 https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #38 - ESPN 3
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN3
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN3.br" tvg-name="BR - ESPN 3" tvg-logo="https://tinyurl.com/espn3-logo",ESPN3
 https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #39 - ESPN 4
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN4
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN4.br" tvg-name="BR - ESPN 4" tvg-logo="https://tinyurl.com/espn4-logo",ESPN4
 https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #40 - ESPN 5
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",ESPN5
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN5.br" tvg-name="BR - ESPN 5" tvg-logo="https://tinyurl.com/espn5-logo",ESPN5
 https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #41 - ESPN 6
-#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN6
+#EXTINF:-1 group-title="Esportivos" tvg-id="ESPN6.br" tvg-name="BR - ESPN 6" tvg-logo="https://tinyurl.com/espn6-logo",ESPN6
 https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #42 - Band Sports
-#EXTINF:-1 group-title="Esportivos" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/330px-BandSports2024.png",Band Sports
+#EXTINF:-1 group-title="Esportivos" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://tinyurl.com/bandsports-logo",Band Sports
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #43 - JovenPan News
 #EXTINF:-1 group-title="Jornalismo" tvg-id="JovemPanNews.br" tvg-name="BR - Jovem Pan News" tvg-logo="",JovemPan News
@@ -146,10 +146,10 @@ https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 #EXTINF:-1 group-title="Jornalismo" tvg-id="CNN.br" tvg-name="BR - CNN" tvg-logo="",CNN Brasil
 https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #45 - Record News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/330px-Record_News_logo_2023.svg.png",Record News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://tinyurl.com/tvrecordnews-logo",Record News
 https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #46 - Band News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo=https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/330px-BandNewsTV2024.svg.png",Band News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo="https://tinyurl.com/bandnews-logo",Band News
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #47 - National Geographic
 #48 - Discovery Channel
@@ -168,7 +168,7 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=Mw3YKkuj
 #EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryScience.br" tvg-name="BR - Discovery Science" tvg-logo="",Discovery Science
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #53 - SBT News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/330px-SBT_News_2025.svg.png",SBT News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://tinyurl.com/sbtnews-logo",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #54 - Discovery Theater
 #EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTheater.br" tvg-name="BR - Discovery Theater" tvg-logo="",Discovery Theater
