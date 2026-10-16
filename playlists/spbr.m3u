@@ -140,10 +140,10 @@ https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQj
 #EXTINF:-1 group-title="Esportivos" tvg-id="BandSports.br" tvg-name="BR - BandSports" tvg-logo="https://tinyurl.com/bandsports-logo",Band Sports
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #43 - JovenPan News
-#EXTINF:-1 group-title="Jornalismo" tvg-id="JovemPanNews.br" tvg-name="BR - Jovem Pan News" tvg-logo="",JovemPan News
+#EXTINF:-1 group-title="Jornalismo" tvg-id="JovemPanNews.br" tvg-name="BR - Jovem Pan News" tvg-logo="https://tinyurl.com/jpnews-logo",JovemPan News
 https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #44 - CNN Brasil
-#EXTINF:-1 group-title="Jornalismo" tvg-id="CNN.br" tvg-name="BR - CNN" tvg-logo="",CNN Brasil
+#EXTINF:-1 group-title="Jornalismo" tvg-id="CNN.br" tvg-name="BR - CNN" tvg-logo="https://tinyurl.com/cnnbr-logo",CNN Brasil
 https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #45 - Record News
 #EXTINF:-1 group-title="Jornalismo" tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://tinyurl.com/tvrecordnews-logo",Record News
@@ -153,31 +153,31 @@ https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #47 - National Geographic
 #48 - Discovery Channel
-#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryChannel.br" tvg-name="BR - Discovery" tvg-logo="",Discovery Channel
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryChannel.br" tvg-name="BR - Discovery" tvg-logo="https://tinyurl.com/discoverytv-logo",Discovery Channel
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #49 - Animal Planet
-#EXTINF:-1 group-title="Documentários" tvg-id="AnimalPlanet.br" tvg-name="BR - Animal Planet" tvg-logo="",Animal Planet
+#EXTINF:-1 group-title="Documentários" tvg-id="AnimalPlanet.br" tvg-name="BR - Animal Planet" tvg-logo="https://tinyurl.com/animalplanettv-logo",Animal Planet
 https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #50 - History Channel
-#EXTINF:-1 group-title="Documentários" tvg-id="HistoryChannel.br" tvg-name="BR - History Channel" tvg-logo="",History Channel
+#EXTINF:-1 group-title="Documentários" tvg-id="HistoryChannel.br" tvg-name="BR - History Channel" tvg-logo="https://tinyurl.com/history1-logo",History Channel
 https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #51 - Discovery Turbo
-#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTurbo.br" tvg-name="BR - Discovery Turbo" tvg-logo="",Discovery Turbo
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTurbo.br" tvg-name="BR - Discovery Turbo" tvg-logo="https://tinyurl.com/discoveryturbo-logo",Discovery Turbo
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #52 - Discovery Science 
-#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryScience.br" tvg-name="BR - Discovery Science" tvg-logo="",Discovery Science
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryScience.br" tvg-name="BR - Discovery Science" tvg-logo="https://tinyurl.com/discoverysci-logo",Discovery Science
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #53 - SBT News
 #EXTINF:-1 group-title="Jornalismo" tvg-id="SBTBrasil.br" tvg-name="BR - SBT Brasil" tvg-logo="https://tinyurl.com/sbtnews-logo",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #54 - Discovery Theater
-#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTheater.br" tvg-name="BR - Discovery Theater" tvg-logo="",Discovery Theater
+#EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryTheater.br" tvg-name="BR - Discovery Theater" tvg-logo="https://tinyurl.com/discoverytheater-logo",Discovery Theater
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #55 - Discovery World
 #EXTINF:-1 group-title="Documentários" tvg-id="DiscoveryWorld.br" tvg-name="BR - Discovery World" tvg-logo="",Discovery World
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #56 - History 2
-#EXTINF:-1 group-title="Documentários" tvg-id="History2.br" tvg-name="BR - History 2" tvg-logo="",History 2
+#EXTINF:-1 group-title="Documentários" tvg-id="History2.br" tvg-name="BR - History 2" tvg-logo="https://tinyurl.com/history2-logo",History 2
 https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #56 - Gospel Cartoon
 #EXTINF:-1 group-title="Infantil" tvg-id="" tvg-name="" tvg-logo="",Gospel Cartoon
